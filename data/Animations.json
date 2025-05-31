@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"displayType":0,"effectName":"SlashEffect","flashTimings":[],"name":"AuraBlade","offsetX":-20,"offsetY":-10,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":80,"timings":[],"alignBottom":true},
+{"id":2,"displayType":0,"effectName":"Bodyslam","flashTimings":[],"name":"Tackle","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":120,"timings":[]},
+{"id":3,"displayType":0,"effectName":"SlashSpecial1","flashTimings":[],"name":"RadiantBlade","offsetX":-10,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":120,"timings":[],"alignBottom":false},
+{"id":4,"displayType":2,"effectName":"FireAll2","flashTimings":[],"name":"Fire","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":100,"timings":[]},
+{"id":5,"displayType":2,"effectName":"IceAll2","flashTimings":[],"name":"Ice","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":100,"timings":[],"alignBottom":false},
+{"id":6,"displayType":0,"effectName":"Radiation","flashTimings":[],"name":"Judgement","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":300,"soundTimings":[],"speed":50,"timings":[],"alignBottom":false}
+]

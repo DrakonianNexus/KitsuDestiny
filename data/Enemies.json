@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"actions":[{"skillId":4,"rating":5,"conditionType":0,"conditionParam1":0,"conditionParam2":0},{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":5},{"skillId":6,"rating":3,"conditionType":0,"conditionParam1":0,"conditionParam2":0},{"skillId":7,"rating":3,"conditionType":0,"conditionParam1":0,"conditionParam2":0},{"skillId":8,"rating":1,"conditionType":0,"conditionParam1":0,"conditionParam2":0}],"battlerHue":0,"battlerName":"Goddess_of_death","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[{"code":22,"dataId":0,"value":0.95},{"code":22,"dataId":1,"value":0.05},{"code":31,"dataId":1,"value":10},{"code":13,"dataId":1,"value":0},{"code":63,"dataId":1,"value":0},{"code":11,"dataId":4,"value":1.5}],"gold":0,"name":"The Dark Lady","note":"","params":[99999,9999,250,100,250,100,1,500]}
+]
