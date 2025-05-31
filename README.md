@@ -14,3 +14,5 @@
 - They make you more powerful.
 - Oh, you beat the boss? New Game PLUS!
 - You have to beat her daughters... forever!
+
+The latest version (1.4.1) is available on [Steam]https://store.steampowered.com/app/1589290/Kitsus_Destiny/) for US$5 with deep sales every few months.
