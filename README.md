@@ -23,4 +23,4 @@ The latest version (1.4.1) is available on [Steam](https://store.steampowered.co
 - [Casper Gaming](https://casper-gaming.itch.io/)
 - [KitsuPlugins](https://drive.google.com/file/d/1MlLsUDrldVg6Zx9jg1uhGakB_KgD9Fnk/view?usp=sharing)
 - RPG Maker MZ Default Assets
-- Kitsu's Destiny Soundtrack OST
+- Kitsu's Destiny Soundtrack DLC
