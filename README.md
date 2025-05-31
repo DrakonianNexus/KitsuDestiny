@@ -1,7 +1,7 @@
 # Kitsu's Destiny is a roguelite incremental RPG made in RPG Maker.
 ### It has a dynasty mechanic in which the more damage you deal to the Dark Lady, the more Gold and Experience your daughter gets to try and beat her again once you lose. 
 ### You have weapons, armour and stat boosts to purchase, and the longer you take to beat her, the more powerful insignias you get which allow you extra attacks. It may be a grinding simulator, but you can win, it's all about how quick you can do it.
-### This is the Open Source release of V1.4.0, which is NOT the current release version. The community is welcome to use this to make mods or other content, so long as the License is followed. All art and music we do not own the licenses or copyright to, has been removed.
+### This is the Open Source release of V1.4.0, which is NOT the current release version. The community is welcome to use this to make mods or other content, so long as the LICENSE is followed. All art, plugins and music we do not own the licenses or copyright to have been removed.
 
 ## Features
 - Made in RPG Maker MZ.
